@@ -1,0 +1,23 @@
+{
+  "name": "yeet-radio",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r      <img src=\"https://cdn.discordapp.com/attachments/711868684242780200/712006363223425064/d944e75419c77a88f5900217ccdd6686.png\" width=\"200\"/>\r      <h1>~ Yeet ~</h1>\r      <strong>Yeet is a Radio bot with over than 65 Radio Stations and more is coming! I will make more functions like a Meme command and more!<br>Right now there are mostly german radio stations but i will add more so just invite the bot and have fun!</strong><br><br>\r      <img src=\"https://forthebadge.com/images/badges/made-with-javascript.svg\" height=\"30\" />&nbsp;\r \t <br>\r      <br>\r </div>",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "discord.js": "^11.5.1",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.4.0",
+    "nodemon": "^2.0.4",
+    "opusscript": "0.0.7",
+    "soundcloudr": "^1.1.0",
+    "tough-cookie": "^4.0.0"
+  }
+}
